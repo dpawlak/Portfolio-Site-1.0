@@ -13,14 +13,7 @@ body {
   color: #444444;
 }
 
-a {
-  color: #e71d36;
-}
 
-a:hover {
-  color: #a51626;
-  text-decoration: none;
-}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
@@ -280,7 +273,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/* Get Startet Button */
+/* Get Started Button */
 .get-started-btn {
   margin-left: 25px;
   color: #fdfffc;
@@ -435,7 +428,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fdfffc;
 }
 
-#hero h2, a {
+#hero h2, #hero a {
   color: rgba(255, 255, 255, 0.8);
   margin: 10px 0 0 0;
   font-size: 20px;
